@@ -3,7 +3,7 @@
 ## [apple-iphone-landing](https://lighthearted-madeleine-94565a.netlify.app/) # Check this Service
 
 
-This project is a survey-based recommendation service that suggests cat breeds based on individual personalities, using the MBTI (Myers-Briggs Type Indicator) test as a foundation. By analyzing user traits through a series of 12 questions, the service recommends cats that match their personality.
+I was inspired by Apple's animation effects and design, and I wanted to try implementing a 3D effect using JavaScript. There is no specific web functionality; instead, I directly applied a 3D animation effect to actual 3D modeling images.
 
 
 ![apple-landing](https://github.com/jungwonJung/apple-iphone-landing/assets/63602609/7c397efa-9cbb-4008-a54b-369d3eba74d3)
