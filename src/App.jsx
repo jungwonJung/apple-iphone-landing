@@ -3,7 +3,7 @@ import DisplaySection from "./components/DisplaySection";
 import Jumbotron from "./components/Jumbotron";
 import SoundsSection from "./components/SoundsSection";
 import WebgiViewer from "./components/WebgiViewer";
-import Nav from "./components/nav";
+import Nav from "./components/Nav";
 import Loader from "./components/Loader";
 
 function App() {
